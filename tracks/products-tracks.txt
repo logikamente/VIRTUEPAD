@@ -1,0 +1,19 @@
+## TRACK RECORD products
+## VIRTUEPAD: V 2.1
+	## FILENAME: products_b2b_import_out[language].csv
+## FIELD SEPARATOR: ^
+## TEXT DELIMITER: ~
+
+- product_sku (varchar, product code)
+- product_parent_sku (varchar, product parent code)
+- custom_title (varchar, set to default "Taglia/Colore")
+- custom_value (varchar, set to default "stockable")
+- custom_param (varchar, formatted string only for parent: "childSku[size0#color0[;childSku[size1#color0;childSku[sizeN#color0..." see csv example)
+- product_name (varchar)
+- product_s_desc (varchar 255)
+- layout (varchar, set to default "sizecolorplg")
+- product_price (float, use "." to decimal separator)
+- product_currency (varchar, use "EUR" for Euro valute)
+- product_tax (varchar,name of tax to price applicate)
+- product_in_stock (int, product quantity)
+- shopper_group_name_price (varchar, name of special customer group prices)
