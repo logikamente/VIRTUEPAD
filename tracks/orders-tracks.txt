@@ -1,0 +1,37 @@
+## TRACK RECORD orders
+## VIRTUEPAD: V 2.1
+## FILENAME: orders_b2b_export_in.csv
+## FIELD SEPARATOR: ^
+## TEXT DELIMITER: ~
+
+- virtuemart_order_id (int, order numeric virtuepad identificator)	
+- virtuemart_user_id (int, reference to joomla system user id)
+- codext (int or varchar, reference to ERP system identificator)
+- company (varchar)
+- first_name (varchar)
+- last_name (varchar)
+- address_type (varchar, "Billing address" to define an ufficial company address. Set a text to identificate an address to deliver products, ex. "Store in Milan"))
+- address_type_name (varchar, "Billing address" to define an ufficial company address. Set a text to identificate an address to deliver products, ex. "Store in Milan")
+- order_payment (float, amount of payment fee, tipically set to 0.00)
+- order_subtotal (float, amount of order tax less)
+- order_tax (float, amount of order tax)
+- order_total (float, amount order total)
+- customer_note (varcahr)
+- created_on (date time)
+- modified_on (date time)
+- order_shipment (float, amount of shipment cost)
+
+
+## TRACK RECORD orders
+## VIRTUEPAD: V 2.1
+## FILENAME: order_items_b2b_export_in.csv
+## FIELD SEPARATOR: ^
+## TEXT DELIMITER: ~
+
+- virtuemart_order_id (int, order numeric virtuepad identificator)
+- product_sku (varchar, product code)
+- order_item_name (varchar, product name)
+- product_quantity (int)
+- product_item_price (float, amount of product tax less)
+- product_final_price (float, amount of product)
+- product_tax (float, amount of product tax)
