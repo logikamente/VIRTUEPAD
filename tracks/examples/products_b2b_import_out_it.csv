@@ -1,17 +1,65 @@
 product_sku^product_parent_sku^custom_title^custom_value^custom_param^product_name^product_s_desc^layout^product_price^product_currency^product_tax^product_in_stock^shopper_group_name_price
-LOGIKA.EA^0^Taglia/Colore^stockable^LOGIKA.EA{0201}[sizes 40#colors 9[;LOGIKA.EA{0202}[sizes 42#colors 9[;LOGIKA.EA{0203}[sizes 44#colors 9[;LOGIKA.EA{0204}[sizes 46#colors 9[;LOGIKA.EA{0205}[sizes 48#colors 9[;LOGIKA.EA{0301}[sizes 40#colors 91[;LOGIKA.EA{0302}[sizes 42#colors 91[;LOGIKA.EA{0303}[sizes 44#colors 91[;LOGIKA.EA{0304}[sizes 46#colors 91[;LOGIKA.EA{0305}[sizes 48#colors 91[;LOGIKA.EA{0701}[sizes 40#colors 356[;LOGIKA.EA{0702}[sizes 42#colors 356[;LOGIKA.EA{0703}[sizes 44#colors 356[;LOGIKA.EA{0704}[sizes 46#colors 356[;LOGIKA.EA{0705}[sizes 48#colors 356[^LOGIKA.EA^This is a product size color test import.^sizecolorplg^115.99^EUR^IVA 22^1^-default-
-LOGIKA.EA{0201}^LOGIKA.EA^^^^LOGIKA.EA{0201}^This is a product size color test import.^sizecolorplg^115.99^EUR^IVA 22^^-default-
-LOGIKA.EA{0202}^LOGIKA.EA^^^^LOGIKA.EA{0202}^This is a product size color test import.^sizecolorplg^115.99^EUR^IVA 22^^-default-
-LOGIKA.EA{0203}^LOGIKA.EA^^^^LOGIKA.EA{0203}^This is a product size color test import.^sizecolorplg^115.99^EUR^IVA 22^^-default-
-LOGIKA.EA{0204}^LOGIKA.EA^^^^LOGIKA.EA{0204}^This is a product size color test import.^sizecolorplg^115.99^EUR^IVA 22^^-default-
-LOGIKA.EA{0205}^LOGIKA.EA^^^^LOGIKA.EA{0205}^This is a product size color test import.^sizecolorplg^115.99^EUR^IVA 22^^-default-
-LOGIKA.EA{0301}^LOGIKA.EA^^^^LOGIKA.EA{0301}^This is a product size color test import.^sizecolorplg^120.99^EUR^IVA 22^^-default-
-LOGIKA.EA{0302}^LOGIKA.EA^^^^LOGIKA.EA{0302}^This is a product size color test import.^sizecolorplg^120.99^EUR^IVA 22^^-default-
-LOGIKA.EA{0303}^LOGIKA.EA^^^^LOGIKA.EA{0303}^This is a product size color test import.^sizecolorplg^120.99^EUR^IVA 22^^-default-
-LOGIKA.EA{0304}^LOGIKA.EA^^^^LOGIKA.EA{0304}^This is a product size color test import.^sizecolorplg^120.99^EUR^IVA 22^^-default-
-LOGIKA.EA{0305}^LOGIKA.EA^^^^LOGIKA.EA{0305}^This is a product size color test import.^sizecolorplg^120.99^EUR^IVA 22^^-default-
-LOGIKA.EA{0701}^LOGIKA.EA^^^^LOGIKA.EA{0701}^This is a product size color test import.^sizecolorplg^135.99^EUR^IVA 22^^-default-
-LOGIKA.EA{0702}^LOGIKA.EA^^^^LOGIKA.EA{0702}^This is a product size color test import.^sizecolorplg^135.99^EUR^IVA 22^^-default-
-LOGIKA.EA{0703}^LOGIKA.EA^^^^LOGIKA.EA{0703}^This is a product size color test import.^sizecolorplg^135.99^EUR^IVA 22^^-default-
-LOGIKA.EA{0704}^LOGIKA.EA^^^^LOGIKA.EA{0704}^This is a product size color test import.^sizecolorplg^135.99^EUR^IVA 22^^-default-
-LOGIKA.EA{0705}^LOGIKA.EA^^^^LOGIKA.EA{0705}^This is a product size color test import.^sizecolorplg^135.99^EUR^IVA 22^^-default-
+JA.EB^0^Taglia/Colore^stockable^JA.EB{0101}[sizes 24#colors 102[;JA.EB{0201}[sizes 25#colors 102[;JA.EB{0301}[sizes 26#colors 102[;JA.EB{0401}[sizes 27#colors 102[;JA.EB{0501}[sizes 28#colors 102[;JA.EB{0601}[sizes 29#colors 102[;JA.EB{0701}[sizes 30#colors 102[;JA.EB{0801}[sizes 31#colors 102[;JA.EB{0901}[sizes 32#colors 102[;JA.EB{0102}[sizes 24#colors 103[;JA.EB{0202}[sizes 25#colors 103[;JA.EB{0302}[sizes 26#colors 103[;JA.EB{0402}[sizes 27#colors 103[;JA.EB{0502}[sizes 28#colors 103[;JA.EB{0602}[sizes 29#colors 103[;JA.EB{0702}[sizes 30#colors 103[;JA.EB{0802}[sizes 31#colors 103[;JA.EB{0902}[sizes 32#colors 103[;JA.EB{0103}[sizes 24#colors 105[;JA.EB{0203}[sizes 25#colors 105[;JA.EB{0303}[sizes 26#colors 105[;JA.EB{0403}[sizes 27#colors 105[;JA.EB{0503}[sizes 28#colors 105[;JA.EB{0603}[sizes 29#colors 105[;JA.EB{0703}[sizes 30#colors 105[;JA.EB{0803}[sizes 31#colors 105[;JA.EB{0903}[sizes 32#colors 105[;JA.EB{0104}[sizes 24#colors 110[;JA.EB{0204}[sizes 25#colors 110[;JA.EB{0304}[sizes 26#colors 110[;JA.EB{0404}[sizes 27#colors 110[;JA.EB{0504}[sizes 28#colors 110[;JA.EB{0604}[sizes 29#colors 110[;JA.EB{0704}[sizes 30#colors 110[;JA.EB{0804}[sizes 31#colors 110[;JA.EB{0904}[sizes 32#colors 110[;JA.EB{0105}[sizes 24#colors 140[;JA.EB{0205}[sizes 25#colors 140[;JA.EB{0305}[sizes 26#colors 140[;JA.EB{0405}[sizes 27#colors 140[;JA.EB{0505}[sizes 28#colors 140[;JA.EB{0605}[sizes 29#colors 140[;JA.EB{0705}[sizes 30#colors 140[;JA.EB{0805}[sizes 31#colors 140[;JA.EB{0905}[sizes 32#colors 140[;JA.EB{0106}[sizes 24#colors 99[;JA.EB{0206}[sizes 25#colors 99[;JA.EB{0306}[sizes 26#colors 99[;JA.EB{0406}[sizes 27#colors 99[;JA.EB{0506}[sizes 28#colors 99[;JA.EB{0606}[sizes 29#colors 99[;JA.EB{0706}[sizes 30#colors 99[;JA.EB{0806}[sizes 31#colors 99[;JA.EB{0906}[sizes 32#colors 99[;JA.EB{0107}[sizes 24#colors S5[;JA.EB{0207}[sizes 25#colors S5[;JA.EB{0307}[sizes 26#colors S5[;JA.EB{0407}[sizes 27#colors S5[;JA.EB{0507}[sizes 28#colors S5[;JA.EB{0607}[sizes 29#colors S5[;JA.EB{0707}[sizes 30#colors S5[;JA.EB{0807}[sizes 31#colors S5[;JA.EB{0907}[sizes 32#colors S5[^JA.EB^This is a product size color test import.^sizecolorplg^115.99^EUR^IVA 22^^-default-
+JA.EB{0101}^^^^^JA.EB{0101}^^^^EUR^IVA 22^^-default-
+JA.EB{0201}^^^^^JA.EB{0201}^^^^EUR^IVA 22^^-default-
+JA.EB{0301}^^^^^JA.EB{0301}^^^^EUR^IVA 22^^-default-
+JA.EB{0401}^^^^^JA.EB{0401}^^^^EUR^IVA 22^^-default-
+JA.EB{0501}^^^^^JA.EB{0501}^^^^EUR^IVA 22^^-default-
+JA.EB{0601}^^^^^JA.EB{0601}^^^^EUR^IVA 22^^-default-
+JA.EB{0701}^^^^^JA.EB{0701}^^^^EUR^IVA 22^^-default-
+JA.EB{0801}^^^^^JA.EB{0801}^^^^EUR^IVA 22^^-default-
+JA.EB{0901}^^^^^JA.EB{0901}^^^^EUR^IVA 22^^-default-
+JA.EB{0102}^^^^^JA.EB{0102}^^^^EUR^IVA 22^^-default-
+JA.EB{0202}^^^^^JA.EB{0202}^^^^EUR^IVA 22^^-default-
+JA.EB{0302}^^^^^JA.EB{0302}^^^^EUR^IVA 22^^-default-
+JA.EB{0402}^^^^^JA.EB{0402}^^^^EUR^IVA 22^^-default-
+JA.EB{0502}^^^^^JA.EB{0502}^^^^EUR^IVA 22^^-default-
+JA.EB{0602}^^^^^JA.EB{0602}^^^^EUR^IVA 22^^-default-
+JA.EB{0702}^^^^^JA.EB{0702}^^^^EUR^IVA 22^^-default-
+JA.EB{0802}^^^^^JA.EB{0802}^^^^EUR^IVA 22^^-default-
+JA.EB{0902}^^^^^JA.EB{0902}^^^^EUR^IVA 22^^-default-
+JA.EB{0103}^^^^^JA.EB{0103}^^^^EUR^IVA 22^^-default-
+JA.EB{0203}^^^^^JA.EB{0203}^^^^EUR^IVA 22^^-default-
+JA.EB{0303}^^^^^JA.EB{0303}^^^^EUR^IVA 22^^-default-
+JA.EB{0403}^^^^^JA.EB{0403}^^^^EUR^IVA 22^^-default-
+JA.EB{0503}^^^^^JA.EB{0503}^^^^EUR^IVA 22^^-default-
+JA.EB{0603}^^^^^JA.EB{0603}^^^^EUR^IVA 22^^-default-
+JA.EB{0703}^^^^^JA.EB{0703}^^^^EUR^IVA 22^^-default-
+JA.EB{0803}^^^^^JA.EB{0803}^^^^EUR^IVA 22^^-default-
+JA.EB{0903}^^^^^JA.EB{0903}^^^^EUR^IVA 22^^-default-
+JA.EB{0104}^^^^^JA.EB{0104}^^^^EUR^IVA 22^^-default-
+JA.EB{0204}^^^^^JA.EB{0204}^^^^EUR^IVA 22^^-default-
+JA.EB{0304}^^^^^JA.EB{0304}^^^^EUR^IVA 22^^-default-
+JA.EB{0404}^^^^^JA.EB{0404}^^^^EUR^IVA 22^^-default-
+JA.EB{0504}^^^^^JA.EB{0504}^^^^EUR^IVA 22^^-default-
+JA.EB{0604}^^^^^JA.EB{0604}^^^^EUR^IVA 22^^-default-
+JA.EB{0704}^^^^^JA.EB{0704}^^^^EUR^IVA 22^^-default-
+JA.EB{0804}^^^^^JA.EB{0804}^^^^EUR^IVA 22^^-default-
+JA.EB{0904}^^^^^JA.EB{0904}^^^^EUR^IVA 22^^-default-
+JA.EB{0105}^^^^^JA.EB{0105}^^^^EUR^IVA 22^^-default-
+JA.EB{0205}^^^^^JA.EB{0205}^^^^EUR^IVA 22^^-default-
+JA.EB{0305}^^^^^JA.EB{0305}^^^^EUR^IVA 22^^-default-
+JA.EB{0405}^^^^^JA.EB{0405}^^^^EUR^IVA 22^^-default-
+JA.EB{0505}^^^^^JA.EB{0505}^^^^EUR^IVA 22^^-default-
+JA.EB{0605}^^^^^JA.EB{0605}^^^^EUR^IVA 22^^-default-
+JA.EB{0705}^^^^^JA.EB{0705}^^^^EUR^IVA 22^^-default-
+JA.EB{0805}^^^^^JA.EB{0805}^^^^EUR^IVA 22^^-default-
+JA.EB{0905}^^^^^JA.EB{0905}^^^^EUR^IVA 22^^-default-
+JA.EB{0106}^^^^^JA.EB{0106}^^^^EUR^IVA 22^^-default-
+JA.EB{0206}^^^^^JA.EB{0206}^^^^EUR^IVA 22^^-default-
+JA.EB{0306}^^^^^JA.EB{0306}^^^^EUR^IVA 22^^-default-
+JA.EB{0406}^^^^^JA.EB{0406}^^^^EUR^IVA 22^^-default-
+JA.EB{0506}^^^^^JA.EB{0506}^^^^EUR^IVA 22^^-default-
+JA.EB{0606}^^^^^JA.EB{0606}^^^^EUR^IVA 22^^-default-
+JA.EB{0706}^^^^^JA.EB{0706}^^^^EUR^IVA 22^^-default-
+JA.EB{0806}^^^^^JA.EB{0806}^^^^EUR^IVA 22^^-default-
+JA.EB{0906}^^^^^JA.EB{0906}^^^^EUR^IVA 22^^-default-
+JA.EB{0107}^^^^^JA.EB{0107}^^^^EUR^IVA 22^^-default-
+JA.EB{0207}^^^^^JA.EB{0207}^^^^EUR^IVA 22^^-default-
+JA.EB{0307}^^^^^JA.EB{0307}^^^^EUR^IVA 22^^-default-
+JA.EB{0407}^^^^^JA.EB{0407}^^^^EUR^IVA 22^^-default-
+JA.EB{0507}^^^^^JA.EB{0507}^^^^EUR^IVA 22^^-default-
+JA.EB{0607}^^^^^JA.EB{0607}^^^^EUR^IVA 22^^-default-
+JA.EB{0707}^^^^^JA.EB{0707}^^^^EUR^IVA 22^^-default-
+JA.EB{0807}^^^^^JA.EB{0807}^^^^EUR^IVA 22^^-default-
+JA.EB{0907}^^^^^JA.EB{0907}^^^^EUR^IVA 22^^-default-
